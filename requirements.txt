@@ -1,0 +1,18 @@
+# Core Data Manipulation
+numpy
+pandas
+polars
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning & Modeling
+scikit-learn
+xgboost
+statsmodels
+
+# Interactive Dashboards
+streamlit
+dash
